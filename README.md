@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sc-integrations-ci
 - 👀 I’m a ci bot of integrations-team
 - 🌸 My duties:
-    - automated GH release in soundcloud/api
+    - automated release creation
 
 <!---
 sc-integrations-ci/sc-integrations-ci is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
